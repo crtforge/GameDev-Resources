@@ -82,6 +82,7 @@ Assets
 ### Audio Assets
 
 * :free: [GameSounds](https://gamesounds.xyz/) - Archive of royalty-free game sounds. 
+* :heavy_dollar_sign: [Fantasy RPG SFX Bundle](https://assetsmithpixels.itch.io/fantasy-rpg-sfx-bundle) - 763 royalty-free combat, magic and loot/UI game sounds (WAV + OGG). Combat edited from CC0 Freesound recordings; Magic and Loot/UI synthesized in code; AI helped with tooling and text.
 * :free: [FreePD](http://freepd.com/) - Public Domain Music 
 * :free: [FreeSFX](http://www.freesfx.co.uk/) - free sound effects 
 * :free: [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds 
